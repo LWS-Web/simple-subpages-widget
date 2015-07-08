@@ -22,8 +22,8 @@ Set the widget in `Appearance > Widgets`.
 ***
 
 ## Screenshots
-
 Widget in backend:
+
 ![Widget in backend](/../screenshots/ssp-widget.jpg?raw=true "Widget in backend")
 
 Widget on the frontend in a parent page:
