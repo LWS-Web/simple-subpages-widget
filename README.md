@@ -23,8 +23,13 @@ Set the widget in `Appearance > Widgets`.
 
 ## Screenshots
 
+Widget in backend:
 ![Widget in backend](/../screenshots/ssp-widget.jpg?raw=true "Widget in backend")
+
+Widget on the frontend in a parent page:
 ![Widget on parent page](/../screenshots/ssp-parent.jpg?raw=true "Widget in parent page")
+
+Widget on the frontend in a child page:
 ![Widget on child page](/../screenshots/ssp-child.jpg?raw=true "Widget in child page")
 
 ***
